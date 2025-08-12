@@ -42,13 +42,18 @@ npm install
 npm run dev
 📜 Usage
 Move the length slider to select desired password length
+
 Enable/disable Numbers or Special Characters with checkboxes
+
 Password updates instantly based on preferences
 
 Click Copy to copy it to your clipboard
 
 💡 Future Improvements
+
 Password strength meter
+
 Dark mode toggle
+
 Option to exclude similar-looking characters (O, 0, l, 1, etc.)
 
