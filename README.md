@@ -57,3 +57,4 @@ Dark mode toggle
 
 Option to exclude similar-looking characters (O, 0, l, 1, etc.)
 
+> Made with ❤️ by Gaurav 
