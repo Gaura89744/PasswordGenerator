@@ -30,7 +30,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Gaura89744/PasswordGenerator.git
 
 # Navigate to project folder
 cd password-generator
