@@ -1,12 +1,57 @@
-# React + Vite
+🔐 Password Generator (React.js)
+A modern and customizable Password Generator built with React.js and styled using Tailwind CSS.
+Easily generate strong passwords with adjustable length, numbers, and special characters — plus instant copy-to-clipboard.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+📏 Adjustable password length (6–100 characters)
 
-Currently, two official plugins are available:
+🔢 Option to include numbers
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔣 Option to include special characters
 
-## Expanding the ESLint configuration
+📋 One-click copy to clipboard with confirmation message
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Real-time password generation as you change settings
+
+🎨 Simple and responsive UI with Tailwind CSS
+
+<img src="./screenshot/NC.png" width="400">
+
+🛠️ Tech Stack
+React.js (Vite setup)
+
+JavaScript (ES6+)
+
+Tailwind CSS
+
+📂 Installation & Setup
+bash
+Copy
+Edit
+# Clone the repository
+git clone https://github.com/yourusername/password-generator.git
+
+# Navigate to project folder
+cd password-generator
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+📜 Usage
+Move the length slider to select desired password length
+
+Enable/disable Numbers or Special Characters with checkboxes
+
+Password updates instantly based on preferences
+
+Click Copy to copy it to your clipboard
+
+💡 Future Improvements
+Password strength meter
+
+Dark mode toggle
+
+Option to exclude similar-looking characters (O, 0, l, 1, etc.)
+
