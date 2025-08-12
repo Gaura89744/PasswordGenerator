@@ -15,6 +15,7 @@ Easily generate strong passwords with adjustable length, numbers, and special ch
 
 🎨 Simple and responsive UI with Tailwind CSS
 
+<img src="./screenshot/WithoutNC.png" width="400">
 <img src="./screenshot/NC.png" width="400">
 
 🛠️ Tech Stack
@@ -41,17 +42,13 @@ npm install
 npm run dev
 📜 Usage
 Move the length slider to select desired password length
-
 Enable/disable Numbers or Special Characters with checkboxes
-
 Password updates instantly based on preferences
 
 Click Copy to copy it to your clipboard
 
 💡 Future Improvements
 Password strength meter
-
 Dark mode toggle
-
 Option to exclude similar-looking characters (O, 0, l, 1, etc.)
 
